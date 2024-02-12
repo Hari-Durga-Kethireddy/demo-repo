@@ -1,3 +1,3 @@
 # This is new project
 
-someone is happy.
+someone is happy!
